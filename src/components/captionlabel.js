@@ -1,7 +1,7 @@
 import React from 'react';
 import '../index.css'; 
 
-const Captionlabel: React.FC = () => {
+function Captionlabel(){
   return (
     <div className="flex flex-col items-center justify-center">
         {/* Label */}

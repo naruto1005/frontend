@@ -3,7 +3,7 @@ import '../index.css';  // Import the TailwindCSS styles
 
 function Headings() {
   return (
-    <div className="flex justify-center items-center min-h-screen">
+    <div className="flex justify-center items-center ">
       <div className="text-center">
       <h1 className="text-green-600 sm:text-3xl md:text-4xl lg:text-5xl text-2xl font-black leading-loose tracking-widest dark:text-green-400" aria-label="Welcome to the Animal Kingdom">Welcome to the Animal Kingdom</h1>
       <h2 className="text-red-600 sm:text-2xl md:text-3xl lg:text-4xl text-xl font-extrabold leading-relaxed tracking-wider dark:text-red-400" aria-label="Mammals">Mammals</h2>
